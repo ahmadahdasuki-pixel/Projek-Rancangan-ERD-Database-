@@ -1,2 +1,2 @@
 # Projek-Rancangan-ERD-Database-
-Disini saya membuat sebuah rancangan ERD (Entity Relationship Diagram), untuk merancang sebuah sistem database dari hasil analisis keperluan pada sebuah perusahaan Produksi Roti dan Kue untuk melihar record data nya terkait pengolahan limbah dari hasil produksi roti dan kue. 
+Disini saya membuat sebuah rancangan ERD (Entity Relationship Diagram), untuk merancang sebuah sistem database dari hasil analisis keperluan pada sebuah perusahaan Produksi Roti dan Kue untuk melihar record data nya terkait pengolahan limbahny, perubahan stok bahan nya, penjualan sampai transaksinya serta resep dan pembuatan dari hasil dan proses produksi roti dan kue. 
